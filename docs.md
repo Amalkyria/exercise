@@ -1,3 +1,3 @@
-This documentation describes how to use the Bionic Hair Dryer.
+This documentation describes how to use the Ionic Hair Dryer.
 
 Note that this product is suitable for curly, wavy, straight, and coily hair.
